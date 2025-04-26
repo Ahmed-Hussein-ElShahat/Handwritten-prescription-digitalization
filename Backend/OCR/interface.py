@@ -7,7 +7,7 @@ class RegionOCR:
         """
         Initializes the PrescriptionOCR class.
         """
-        self.local_path = './Backend/weights/arabic_ocr_model'
+        self.local_path = './Backend/Resources/weights/arabic_ocr_model'
         if not os.path.exists(self.local_path):
             self.download_arabic_model()
 

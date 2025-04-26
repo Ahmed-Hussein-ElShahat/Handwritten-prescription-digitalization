@@ -19,7 +19,7 @@ class RoiExtractor:
         Initializes the RoiExtractor class.
         It downloads the YOLO model if it does not exist locally and loads the model.
         """
-        self.local_path = './Backend/weights/Roi_extractor.pt'
+        self.local_path = './Backend/Resources/weights/Roi_extractor.pt'
         if not os.path.exists(self.local_path):
             self.download_model()
         self.yolo = YOLO(self.local_path)
