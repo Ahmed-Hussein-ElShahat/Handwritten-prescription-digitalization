@@ -69,7 +69,4 @@ The system uses several AI models:
 - **Ahmed Hussein**: OCR model development and system integration
 - **Kareem Wael**: YOLO model development
 - **Azza Hassan**: YOLO model development
-
-## License
-
-[MIT License](LICENSE)
+  
