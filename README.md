@@ -67,6 +67,6 @@ The system uses several AI models:
 ## Contributors
 
 - **Ahmed Hussein**: OCR model development and system integration
-- **Kareem Wael**: YOLO model development
-- **Azza Hassan**: YOLO model development
+- **Kareem Wael**: YOLO model development and system deployment
+- **Azza Hassan**: YOLO model development and system deployment
   
