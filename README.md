@@ -57,12 +57,17 @@ for medicine, frequency in results:
   - `Image_Processor/`: Main processing pipeline
   - `Resources/`: Model weights and word dictionaries
 
+
 ## Models
 
 The system uses several AI models:
 - YOLO model for region detection
 - TrOCR models for text recognition in both Arabic and English
 - BK-tree structures for text correction using medicine and frequency corpora
+
+## Data
+<a href="https://app.roboflow.com/neoeliotix/medicalhandwrittenprescription/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true">Dataset Link</a>
+
 
 ## Contributors
 
@@ -71,4 +76,5 @@ The system uses several AI models:
 - **Azza Hassan**: YOLO model development and system deployment
 - **Kareem Halaby**: Annotations and Image processing Expirementation
 - **Mohamed Hussein**: Annotations and Image processing Expirementation
+
   
